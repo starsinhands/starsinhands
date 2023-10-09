@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me<>via ->  My blog is here. My CSDN is here.
 
-A brief introduction of my repositories: (latest updated of the introduction was on Sept. xx, 2023)
+A brief introduction of my repositories: (latest updated of the introduction was on Oct. 9, 2023)
 
 1.[SYSU-source](https://github.com/starsinhands/SYSU-source)
 Some logos and PowerPoint template from SYSU.
@@ -45,6 +45,6 @@ A Web homework, simulating the pre-push exemption system of Baoyan.
 
 13医院管理信息系统数据库设计 数据库大作业
 
-Some other my repositories are on gitee, visit it if you're interested~
+Some other my repositories are on [gitee](https://gitee.com/stars-in-hands), visit it if you're interested~
 
 To be Continued...
