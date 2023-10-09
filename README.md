@@ -21,7 +21,7 @@ Some of my own study notes related to Software Engineering major, inherited from
 5.Algorithm training
 Daily algorithm training records, including questions and solutions, and AC code, some inherited from lr580.
 
-6.Molecular Representation Learning
+6.[Molecular Representation Learning](https://github.com/starsinhands/Molecular-Representation-Learning)
 A summer camp project in Nanjing University, participated in during the summer vacation of 2023.
 
 7.[IELTS](https://github.com/starsinhands/IELTS)
