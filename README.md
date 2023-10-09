@@ -6,7 +6,7 @@
 
 A brief introduction of my repositories: (latest updated of the introduction was on Sept. xx, 2023)
 
-1.SYSU-source
+1.[SYSU-source](https://github.com/starsinhands/SYSU-source)
 Some logos and PowerPoint template from SYSU.
 
 2.algorithm_template
