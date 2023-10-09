@@ -18,7 +18,7 @@ The practise on Leetcode.
 4.notes
 Some of my own study notes related to Software Engineering major, inherited from lr580.
 
-5.Algorithm training
+5.[Algorithm training](https://github.com/starsinhands/Mathematics-modeling)
 Daily algorithm training records, including questions and solutions, and AC code, some inherited from lr580.
 
 6.[Molecular Representation Learning](https://github.com/starsinhands/Molecular-Representation-Learning)
