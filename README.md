@@ -18,7 +18,7 @@ The practise on Leetcode.
 4.notes
 Some of my own study notes related to Software Engineering major, inherited from lr580.
 
-5.[Algorithm training](https://github.com/starsinhands/Mathematics-modeling)
+5.Algorithm training
 Daily algorithm training records, including questions and solutions, and AC code, some inherited from lr580.
 
 6.[Molecular Representation Learning](https://github.com/starsinhands/Molecular-Representation-Learning)
@@ -30,7 +30,7 @@ Self-learning for attending IELTS.
 8.Reproduction of paper code
 A series of sample articles on machine learning and deep learning, and attempts to translate or reproduce the code on the paper.
 
-9.Mathematics modeling
+9.[Mathematics modeling](https://github.com/starsinhands/Mathematics-modeling)
 Some basic knowledge of mathematical modeling and some competitions record.
 
 10.Aircraft-battle
