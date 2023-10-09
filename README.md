@@ -24,7 +24,7 @@ Daily algorithm training records, including questions and solutions, and AC code
 6.Molecular Representation Learning
 A summer camp project in Nanjing University, participated in during the summer vacation of 2023.
 
-7.IELTS
+7.[IELTS](https://github.com/starsinhands/IELTS)
 Self-learning for attending IELTS.
 
 8.Reproduction of paper code
