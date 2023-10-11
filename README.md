@@ -2,7 +2,7 @@
 - 👀 My major is Software Engineering.
 - 🌱 I’m a college student and currently learning a university.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me<>via ->  My blog is here. My CSDN is here.
+- 📫 How to reach me<>via ->  My blog is here. My CSDN is [here](https://blog.csdn.net/m0_68294392?type=blog).
 
 A brief introduction of my repositories: (latest updated of the introduction was on Oct. 9, 2023)
 
