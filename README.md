@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me<>via ->  My blog is here. My CSDN is [here](https://blog.csdn.net/m0_68294392?type=blog).
 
+![info](https://github-readme-stats.vercel.app/api?username=starsinhands&show_icons=true&theme=radical&hide=prs,contribs)
+
 A brief introduction of my repositories: (latest updated of the introduction was on Oct. 9, 2023)
 
 1.[SYSU-source](https://github.com/starsinhands/SYSU-source)
