@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=starsinhands&show_icons=true&theme=radical&hide=prs,contribs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=starsinhands&show_icons=true&theme=radical&hide=prs,contribs&icon_color=CE1D2D" />
 
 - 👋 Hi, I’m @starsinhands✨
 - 👀 My major is Software Engineering.
