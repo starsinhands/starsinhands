@@ -1,4 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=starsinhands&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+🌱 Welcome to my Github page! 🌱
 
 - 👋 Hi, I’m @starsinhands✨
 - 👀 My major is Software Engineering.
@@ -65,4 +66,4 @@ A Web homework, simulating the pre-push exemption system of Baoyan.
 
 Some other my repositories are on [gitee](https://gitee.com/stars-in-hands), visit it if you're interested~
 
-To be Continued...
+🚀To be Continued...
