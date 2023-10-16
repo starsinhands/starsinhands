@@ -37,7 +37,7 @@ A series of sample articles on machine learning and deep learning, and attempts 
 9.[Mathematics modeling](https://github.com/starsinhands/Mathematics-modeling)
 Some basic knowledge of mathematical modeling and some competitions record.
 
-10.Aircraft-battle
+10.[Aircraft-battle](https://github.com/starsinhands/Aircraft-battle)
 A Java Project completed in Junior project implementation in school.
 A python Project completed in iCode.
 
