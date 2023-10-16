@@ -51,12 +51,11 @@ A Web homework, simulating the pre-push exemption system of Baoyan.
 
 #### :computer: Programming languages and tools :computer: : 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=starsinhands&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff"/>
-
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=starsinhands&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff"/>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
