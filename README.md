@@ -71,6 +71,6 @@ A Web homework, simulating the pre-push exemption system of Baoyan.
 
 Some other my repositories are on [gitee](https://gitee.com/stars-in-hands), visit it if you're interested~
 
-![starsinhands's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=starsinhands&count_private=true&theme=gotham)
+![starsinhands's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=starsinhands&layout=compact&count_private=true&theme=gotham)
 
 🚀To be Continued...
