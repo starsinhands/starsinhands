@@ -49,6 +49,7 @@ A Web homework, simulating the pre-push exemption system of Baoyan.
 
 13医院管理信息系统数据库设计 数据库大作业
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=starsinhands&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff"/>
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
@@ -68,8 +69,6 @@ A Web homework, simulating the pre-push exemption system of Baoyan.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=starsinhands&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff"/>
 
 Some other my repositories are on [gitee](https://gitee.com/stars-in-hands), visit it if you're interested~
 
