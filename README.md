@@ -69,8 +69,8 @@ A Web homework, simulating the pre-push exemption system of Baoyan.
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
 
-Some other my repositories are on [gitee](https://gitee.com/stars-in-hands), visit it if you're interested~
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=starsinhands&layout=compact&langs_count=6&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff"/>
+
+Some other my repositories are on [gitee](https://gitee.com/stars-in-hands), visit it if you're interested~
 
 🚀To be Continued...
