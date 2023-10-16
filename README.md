@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=starsinhands&show_icons=true&theme=radical&icon_color=CE1D2D&text_color=718096&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=starsinhands&show_icons=true&theme=graywhite&icon_color=CE1D2D&text_color=718096&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
 
 🌱 Welcome to my Github page! 🌱
 
