@@ -10,8 +10,8 @@
 
 A brief introduction of my repositories: (latest updated of the introduction was on Oct. 9, 2023)
 
-0.[SYSU-source](https://github.com/starsinhands/SYSU-source)
-Some logos and PowerPoint template from SYSU.
+<!--0.[SYSU-source](https://github.com/starsinhands/SYSU-source)
+Some logos and PowerPoint template from SYSU.-->
 
 1.algorithm_template
 Some templates of algorithm for ICPC(ACM)/CCPC, mainly written by C++, the pdf version is about 300 pages, inherited from lr580.
