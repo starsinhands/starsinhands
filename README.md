@@ -10,16 +10,16 @@
 
 A brief introduction of my repositories: (latest updated of the introduction was on Oct. 9, 2023)
 
-1.[SYSU-source](https://github.com/starsinhands/SYSU-source)
+0.[SYSU-source](https://github.com/starsinhands/SYSU-source)
 Some logos and PowerPoint template from SYSU.
 
-2.algorithm_template
+1.algorithm_template
 Some templates of algorithm for ICPC(ACM)/CCPC, mainly written by C++, the pdf version is about 300 pages, inherited from lr580.
 
-3.Leetcode
+2.Leetcode
 The practise on Leetcode.
 
-4.notes
+3.[notes](https://github.com/starsinhands/notes)
 Some of my own study notes related to Software Engineering major, inherited from lr580.
 
 5.Algorithm training
