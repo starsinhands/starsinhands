@@ -19,7 +19,7 @@ Some templates of algorithm for ICPC(ACM)/CCPC, mainly written by C++, the pdf v
 2.Leetcode
 The practise on Leetcode.
 
-3.[notes](https://github.com/starsinhands/notes)
+3.[notes](https://github.com/starsinhands/notes/tree/master)
 Some of my own study notes related to Software Engineering major, inherited from lr580.
 
 5.Algorithm training
