@@ -50,6 +50,11 @@ A Machine learning homework, Crawling and Analyzing the Top 250 High Score Movie
 12.[Baoyan Island](https://github.com/starsinhands/Baoyan-Island)
 A Web homework, simulating the pre-push exemption system of Baoyan.
 
+13.[Go through the Maze]()
+A Data Structure homework, a game that simulates a mouse walking through a maze with GUI, by C++ language.
+
+14.[Cars'info Recognition System](https://github.com/starsinhands/Cars-info-Recognition-System/tree/master)
+A Digital Graph Processing homework, to identify car dashboard readings, by Matlab language.
 13医院管理信息系统数据库设计 数据库大作业
 
 
