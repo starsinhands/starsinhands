@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me<>via ->  My blog is here. My CSDN is [here](https://blog.csdn.net/m0_68294392?type=blog).
 
-A brief introduction of my repositories: (latest updated of the introduction was on Oct. 9, 2023)
+A brief introduction of my repositories: (latest updated of the introduction was on Jan. 9, 2024)
 
 <!--0.[SYSU-source](https://github.com/starsinhands/SYSU-source)
 Some logos and PowerPoint template from SYSU.-->
