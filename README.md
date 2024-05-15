@@ -23,7 +23,7 @@ The practise on Leetcode.
 Some of my own study notes related to Software Engineering major.
 
    [notes_o](https://github.com/starsinhands/notes_o)
-   Notes inherited from lr580.
+   Notes forked from lr580.
 
 5.Algorithm training
 Daily algorithm training records, including questions and solutions, and AC code, some inherited from lr580.
