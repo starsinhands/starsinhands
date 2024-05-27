@@ -22,6 +22,7 @@ The practise on Leetcode.
 3.[notes](https://github.com/starsinhands/notes/tree/master)
 Some of my own study notes related to Software Engineering major.
 
+| 
    [notes_o](https://github.com/starsinhands/notes_o)
    Notes forked from lr580.
 
