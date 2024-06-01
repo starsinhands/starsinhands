@@ -26,6 +26,9 @@ Some of my own study notes related to Software Engineering major.
    [notes_o](https://github.com/starsinhands/notes_o)
    Notes forked from lr580.
 
+4.[MIT6.S081](https://gitlab.eduxiji.net/T202410574992849/project2210132-237569)
+C language project implementing core codes about a RISC-V based operating system, famous MIT series course project.
+
 5.Algorithm training
 Daily algorithm training records, including questions and solutions, and AC code, some inherited from lr580.
 
