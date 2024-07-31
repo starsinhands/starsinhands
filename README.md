@@ -62,7 +62,7 @@ A Data Structure homework, a game that simulates a mouse walking through a maze 
 14.[Cars'info Recognition System](https://github.com/starsinhands/Cars-info-Recognition-System/tree/master)
 A Digital Image Processing homework, to identify car dashboard readings, by Matlab language.
 
-15.医院管理信息系统数据库设计 数据库大作业
+15.[Hospital management information system]() 数据库大作业
 
 
 
