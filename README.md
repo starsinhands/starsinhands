@@ -46,9 +46,12 @@ Some basic knowledge of mathematical modeling and some competitions record.
 
 10.[Go Ashore!](https://github.com/starsinhands/Go-Ashore-/tree/master) An intermediate practical project, a responsive project with front-end and back-end separation, combined with Vue framework and Node.js framework, providing guidance for many postgraduate students.
 
-10.[Aircraft-battle](https://github.com/starsinhands/Aircraft-battle)
+10.[Aircraft-battle-for-junior](https://github.com/starsinhands/Aircraft-battle/tree/junior)
 A Java Project completed in Junior project implementation in school.
-A python Project completed in iCode.
+
+| 
+   [Aircraft-battle-for-icode](https://github.com/starsinhands/Aircraft-battle/tree/icode)
+   A python Project completed in iCode.
 
 11.[Douban_flask](https://github.com/starsinhands/Douban_flask)
 A Machine learning homework, Crawling and Analyzing the Top 250 High Score Movies of Douban, by Python language.
